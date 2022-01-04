@@ -52,8 +52,8 @@ dependencies = [
 
 [[package]]
 name = "tree-sitter-gleam"
-version = "0.0.1"
-source = "git+https://github.com/J3RN/tree-sitter-gleam?branch=main#a201b0efe753137d7308fde6369e81993fadc0d0"
+version = "0.1.0"
+source = "git+https://github.com/J3RN/tree-sitter-gleam?branch=main#fb3105752f0bccacc7faaf2a63f8bdb26d99d417"
 dependencies = [
  "cc",
  "tree-sitter",
