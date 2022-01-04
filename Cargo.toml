@@ -1,0 +1,8 @@
+[package]
+name = "tree-sitter-gleam-rust-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tree-sitter = "~0.20"
+tree-sitter-gleam = { git = "https://github.com/J3RN/tree-sitter-gleam", branch = "main" }
