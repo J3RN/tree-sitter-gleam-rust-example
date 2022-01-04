@@ -11,7 +11,6 @@ fn main() {
     let mut cursor = Tree::walk(&tree);
 
     walk(&mut cursor);
-    println!("{:?}", tree);
 }
 
 fn walk(cursor: &mut TreeCursor) {
